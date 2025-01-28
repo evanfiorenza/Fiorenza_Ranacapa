@@ -1,0 +1,12 @@
+name: ranacapa
+title: ranacapa
+username:
+account: gauravsk
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 342811
+bundleId: 1630578
+url: https://gauravsk.shinyapps.io/ranacapa/
+when: 1539040432.06732
+asMultiple: FALSE
+asStatic: FALSE

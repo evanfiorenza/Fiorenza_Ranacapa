@@ -1,0 +1,4 @@
+## Beta Diversity via Homogeneity of Variances 
+
+Beta diversity can also be thought of as the difference in heterogeneity within habitats (or other groups of samples).  For example, consider a scenario in which ten samples are collected from Habitat 1. Each of the ten samples contains 50 species, but only 25 of those are shared across the ten samples. Ten samples are also collected from Habitat 2, and they too contain 50 species. But in this second case, 45 of the 50 species show up in all ten samples. Habitat 1 has greater variance in species composition than Habitat 2. To test this, we can test if there are differences in the species composition variances for two or more groups of samples. More details on this method are available in [Anderson et al. 2006](https://pdfs.semanticscholar.org/4d5e/dc3b0893ab72630094cd299572a8f9bd8d94.pdf). 
+
